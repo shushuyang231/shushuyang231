@@ -1,17 +1,12 @@
 # Sun Shengyao (孙圣尧)
 
-Undergraduate @ SJTU SPEIT | Exploring LLM evaluation & empirical software engineering
+Undergraduate @ SJTU SPEIT | Interested in LLM evaluation, embodied intelligence & robotics
 
 ---
 
 ## About
 
-First-year undergraduate at Shanghai Jiao Tong University, enrolled in the Paris Elite Institute of Technology (SPEIT). My research interests span two complementary areas:
-
-- On the **AI/LLM** side — building evaluation benchmarks for language model agents, studying robustness in structured outputs
-- On the **software engineering** side — applying mutation testing and state oracle calibration to evaluate benchmark reliability
-
-I am also interested in Bayesian statistical methods for individual-level estimation.
+First-year undergraduate at Shanghai Jiao Tong University, enrolled in the Paris Elite Institute of Technology (SPEIT). My main interest is in large language models — building evaluation benchmarks for LLM agents and studying robustness in structured outputs. I am also curious about embodied intelligence, robotics, and mechanical systems.
 
 ## Research Interests
 
@@ -20,7 +15,7 @@ I am also interested in Bayesian statistical methods for individual-level estima
 | LLM Agent Evaluation | Counterfactual benchmarks for tool-use recovery |
 | Empirical Software Engineering | Mutation testing, state oracle calibration |
 | Structured Output Robustness | JSON Schema serialization-order effects on LLM generation |
-| Bayesian Methods | N-of-1 statistical modeling for personalized estimation |
+| Embodied Intelligence & Robotics | Robot learning, mechanical systems（具身智能与机器人学） |
 
 ## Tech Stack
 
@@ -34,5 +29,6 @@ I am also interested in Bayesian statistical methods for individual-level estima
 ## Connect
 
 - Email: sthfornothing@sjtu.edu.cn
+- ORCID: [0009-0008-9175-8226](https://orcid.org/0009-0008-9175-8226)
 - GitHub: [@shushuyang231](https://github.com/shushuyang231)
 - Academic Page: [shushuyang231.github.io](https://shushuyang231.github.io)

@@ -21,9 +21,8 @@ Undergraduate entering my second year at Shanghai Jiao Tong University, enrolled
 
 ## Skills
 
-- Programming: Python — basic working proficiency（具备基础实用能力）
-- Research: empirical experiment design and reproducible research workflows（实证实验设计与可复现研究流程）
-- Tools: Git / GitHub
+- Python — basic working proficiency（具备基础实用能力）
+- AI-native workflows — comfortable driving AI-assisted research and engineering workflows（AI 原生工作流）
 
 ## Education
 

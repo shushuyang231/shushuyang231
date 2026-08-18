@@ -17,6 +17,11 @@ First-year undergraduate at Shanghai Jiao Tong University, enrolled in the Paris
 | Structured Output Robustness | JSON Schema serialization-order effects on LLM generation |
 | Embodied Intelligence & Robotics | Robot learning, mechanical systems（具身智能与机器人学） |
 
+## Publications
+
+- **Testing JSON Schema Instruction Artifacts: Distributional Robustness under Validation-Equivalent Serialization and JSON Mode** — *Research Square* preprint, 2026. [DOI](https://doi.org/10.21203/rs.3.rs-10610100/v1)
+- **Mutation Testing of Task-Scoped State Oracles in Software-Agent Benchmarks: A Cross-Benchmark Empirical Study** — *Research Square* preprint, 2026. [DOI](https://doi.org/10.21203/rs.3.rs-10665114/v1)
+
 ## Tech Stack
 
 `Python` `Kotlin / Jetpack Compose` `TypeScript / React / Vite` `HTML / CSS` `SQL` `Git`

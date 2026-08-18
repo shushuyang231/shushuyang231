@@ -1,6 +1,6 @@
 # Sun Shengyao (孙圣尧)
 
-Undergraduate student at SJTU SPEIT, entering the second year | LLM evaluation · embodied intelligence · robotics
+Incoming second-year undergraduate at SJTU SPEIT | LLM & software-agent evaluation · interested in embodied intelligence & robotics
 
 ---
 

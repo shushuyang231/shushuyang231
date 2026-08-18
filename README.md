@@ -8,23 +8,20 @@ Undergraduate @ SJTU SPEIT | Interested in LLM evaluation, embodied intelligence
 
 First-year undergraduate at Shanghai Jiao Tong University, enrolled in the Paris Elite Institute of Technology (SPEIT). My main interest is in large language models — building evaluation benchmarks for LLM agents and studying robustness in structured outputs. I am also curious about embodied intelligence, robotics, and mechanical systems.
 
-## Research Interests
+## Areas of Interest
 
-| Direction | Focus |
-|-----------|-------|
-| LLM Agent Evaluation | Counterfactual benchmarks for tool-use recovery |
-| Empirical Software Engineering | Mutation testing, state oracle calibration |
-| Structured Output Robustness | JSON Schema serialization-order effects on LLM generation |
-| Embodied Intelligence & Robotics | Robot learning, mechanical systems（具身智能与机器人学） |
+- Large language models（大语言模型）
+- Embodied intelligence & robotics（具身智能与机器人学）
+- Mechanical systems（机械）
 
 ## Publications
 
 - **Testing JSON Schema Instruction Artifacts: Distributional Robustness under Validation-Equivalent Serialization and JSON Mode** — *Research Square* preprint, 2026. [DOI](https://doi.org/10.21203/rs.3.rs-10610100/v1)
 - **Mutation Testing of Task-Scoped State Oracles in Software-Agent Benchmarks: A Cross-Benchmark Empirical Study** — *Research Square* preprint, 2026. [DOI](https://doi.org/10.21203/rs.3.rs-10665114/v1)
 
-## Tech Stack
+## Skills
 
-`Python` `Kotlin / Jetpack Compose` `TypeScript / React / Vite` `HTML / CSS` `SQL` `Git`
+Python (beginner level)（初级）
 
 ## Education
 

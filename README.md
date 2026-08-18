@@ -1,12 +1,12 @@
 # Sun Shengyao (孙圣尧)
 
-Undergraduate @ SJTU SPEIT | Interested in LLM evaluation, embodied intelligence & robotics
+Undergraduate student at SJTU SPEIT, entering the second year | LLM evaluation · embodied intelligence · robotics
 
 ---
 
 ## About
 
-First-year undergraduate at Shanghai Jiao Tong University, enrolled in the Paris Elite Institute of Technology (SPEIT). My main interest is in large language models — building evaluation benchmarks for LLM agents and studying robustness in structured outputs. I am also curious about embodied intelligence, robotics, and mechanical systems.
+Undergraduate entering my second year at Shanghai Jiao Tong University, enrolled in the Paris Elite Institute of Technology (SPEIT). My prior research experience is in LLM evaluation: building evaluation benchmarks for LLM agents and studying structured-output robustness. I am now actively expanding toward embodied intelligence and robotics, while continuing to explore AI evaluation.
 
 ## Areas of Interest
 
@@ -21,7 +21,9 @@ First-year undergraduate at Shanghai Jiao Tong University, enrolled in the Paris
 
 ## Skills
 
-Python (beginner level)（初级）
+- Programming: Python — basic working proficiency（具备基础实用能力）
+- Research: empirical experiment design and reproducible research workflows（实证实验设计与可复现研究流程）
+- Tools: Git / GitHub
 
 ## Education
 

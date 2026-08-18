@@ -33,6 +33,6 @@ I am also interested in Bayesian statistical methods for individual-level estima
 
 ## Connect
 
-- Email: [your-email]@sjtu.edu.cn
+- Email: sthfornothing@sjtu.edu.cn
 - GitHub: [@shushuyang231](https://github.com/shushuyang231)
 - Academic Page: [shushuyang231.github.io](https://shushuyang231.github.io)

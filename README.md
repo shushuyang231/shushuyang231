@@ -16,8 +16,9 @@ Undergraduate entering my second year at Shanghai Jiao Tong University, enrolled
 
 ## Publications
 
-- **Testing JSON Schema Instruction Artifacts: Distributional Robustness under Validation-Equivalent Serialization and JSON Mode** — *Research Square* preprint, 2026. [DOI](https://doi.org/10.21203/rs.3.rs-10610100/v1)
+- **Did It Happen? Counterfactual Evaluation of LLM Agent Recovery from Ambiguous Tool Outcomes** — *Research Square* preprint, 2026. [DOI](https://doi.org/10.21203/rs.3.rs-10730245/v1)
 - **Mutation Testing of Task-Scoped State Oracles in Software-Agent Benchmarks: A Cross-Benchmark Empirical Study** — *Research Square* preprint, 2026. [DOI](https://doi.org/10.21203/rs.3.rs-10665114/v1)
+- **Testing JSON Schema Instruction Artifacts: Distributional Robustness under Validation-Equivalent Serialization and JSON Mode** — *Research Square* preprint, 2026. [DOI](https://doi.org/10.21203/rs.3.rs-10610100/v1)
 
 ## Skills
 

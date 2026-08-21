@@ -25,6 +25,17 @@ Undergraduate entering my second year at Shanghai Jiao Tong University, enrolled
 - Python — basic working proficiency（具备基础实用能力）
 - AI-native workflows — comfortable driving AI-assisted research and engineering workflows（AI 原生工作流）
 
+## Projects
+
+**Research:**
+- [Ambiguous Tool Outcomes Benchmark](https://github.com/shushuyang231/ambiguous-tool-outcomes-benchmark) — counterfactual benchmark for LLM agent recovery from ambiguous tool outcomes
+- [Side-Effect Calibration Study](https://github.com/shushuyang231/side-effect-calibration-study) — mutation testing of task-scoped state oracles in software-agent benchmarks
+- [Schema Order Robustness](https://github.com/shushuyang231/schema-order-robustness) — JSON Schema serialization-order robustness in black-box LLM generation
+
+**Other:**
+- [VEX Robotics](https://github.com/shushuyang231/vex-robotics) — VEX V5 robot control code; lead programmer, 2nd Prize at SJTU campus competition
+- [Snowbound School Mystery（雪闭校园）](https://github.com/shushuyang231/snowbound-school-mystery) — Ren'Py suspense visual novel, 3 branching routes · [play online](https://modelscope.cn/studios/shushuyang231/snowbound-school-mystery/summary)
+
 ## Education
 
 **B.Eng.** — Shanghai Jiao Tong University, Paris Elite Institute of Technology (SPEIT)
